@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/button_line_radius.xml" value="0.21654749744637386" />
+        <entry key="app/src/main/res/drawable/button_radius.xml" value="0.22083333333333333" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.13092835519677093" />
-        <entry key="app/src/main/res/layout/alarm_list_fragment.xml" value="0.13874873864783047" />
+        <entry key="app/src/main/res/layout/alarm_list_fragment.xml" value="0.335" />
         <entry key="app/src/main/res/layout/alarm_setting_fragment.xml" value="0.13874873864783047" />
+        <entry key="app/src/main/res/layout/item_alarm_list.xml" value="0.335" />
       </map>
     </option>
   </component>
