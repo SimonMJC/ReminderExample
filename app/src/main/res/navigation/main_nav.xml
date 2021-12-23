@@ -9,7 +9,7 @@
         android:id="@+id/alarmListFragment"
         android:name="com.glwona.reminderexample.AlarmListFragment"
         android:label="alarm_list_fragment"
-        tools:layout="@layout/alarm_list_fragment" >
+        tools:layout="@layout/fragment_alarm_list" >
         <action
             android:id="@+id/action_alarmListFragment_to_alarmSettingFragment"
             app:destination="@id/alarmSettingFragment" />
@@ -18,12 +18,12 @@
         android:id="@+id/alarmSettingFragment"
         android:name="com.glwona.reminderexample.AlarmSettingFragment"
         android:label="alarm_setting_fragment"
-        tools:layout="@layout/alarm_setting_fragment" />
+        tools:layout="@layout/fragment_alarm_setting" />
     <fragment
         android:id="@+id/alarmFragment"
         android:name="com.glwona.reminderexample.AlarmFragment"
         android:label="alarm_fragment"
-        tools:layout="@layout/alarm_fragment" >
+        tools:layout="@layout/fragment_alarm" >
         <action
             android:id="@+id/action_alarmFragment_to_alarmListFragment"
             app:destination="@id/alarmListFragment" />

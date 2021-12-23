@@ -19,7 +19,7 @@ class AlarmFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.alarm_fragment, container, false)
+        return inflater.inflate(R.layout.fragment_alarm, container, false)
     }
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
