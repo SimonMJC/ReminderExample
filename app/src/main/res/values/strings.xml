@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ReminderExample</string>
+    <string name="app_name">리마인더</string>
     <string name="remindName">리마인드</string>
     <string name="addReminder">리마인더 추가</string>
 </resources>

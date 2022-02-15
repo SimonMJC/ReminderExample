@@ -13,10 +13,11 @@
         <entry key="app/src/main/res/drawable/ic_baseline_check_circle_outline_24.xml" value="0.30416666666666664" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.30416666666666664" />
         <entry key="app/src/main/res/drawable/selector_alarm.xml" value="0.39166666666666666" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.13092835519677093" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20208333333333334" />
         <entry key="app/src/main/res/layout/alarm_list_fragment.xml" value="0.335" />
         <entry key="app/src/main/res/layout/alarm_setting_fragment.xml" value="0.13874873864783047" />
         <entry key="app/src/main/res/layout/fragment_alarm.xml" value="0.2838541666666667" />
+        <entry key="app/src/main/res/layout/fragment_alarm_list.xml" value="0.10104166666666667" />
         <entry key="app/src/main/res/layout/fragment_alarm_setting.xml" value="0.2838541666666667" />
         <entry key="app/src/main/res/layout/item_alarm_list.xml" value="0.335" />
       </map>
